@@ -22,9 +22,9 @@
     <string name="orario">Orario</string>
 
     <!-- Url -->
-    <string name="urlValore">http://192.168.1.81:8080/PJDM_mySugarLevel_v3/ValoreServlet</string>
-    <string name="urlLoadValoreByDate">http://192.168.1.81:8080/PJDM_mySugarLevel_v3/LoadValoreByDateServlet</string>
-    <string name="urlLoadValoreByUnaData">http://192.168.1.81:8080/PJDM_mySugarLevel_v3/LoadValoreByUnaDataServlet</string>
+    <string name="urlValore">http://localhost:8080/PJDM_mySugarLevel_v3/ValoreServlet</string>
+    <string name="urlLoadValoreByDate">http://localhost:8080/PJDM_mySugarLevel_v3/LoadValoreByDateServlet</string>
+    <string name="urlLoadValoreByUnaData">http://localhost:8080/PJDM_mySugarLevel_v3/LoadValoreByUnaDataServlet</string>
 
 
     <!-- Settings Titles -->
