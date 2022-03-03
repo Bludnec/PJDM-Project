@@ -1,0 +1,25 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory app:title="@string/messages_header">
+
+        <EditTextPreference
+            android:title="@string/soglia_glucosio_basso"
+            app:key="valore_basso"
+            app:title="@string/valore_basso"
+            app:useSimpleSummaryProvider="true" />
+
+        <EditTextPreference
+            android:title="@string/soglia_glucosio_alto"
+            app:key="valore_alto"
+            app:title="@string/valore_alto"
+            app:useSimpleSummaryProvider="true" />
+
+
+    </PreferenceCategory>
+
+    <SwitchPreferenceCompat
+        app:key="@string/notifiche"
+        app:title="@string/notifiche" />
+
+</PreferenceScreen>

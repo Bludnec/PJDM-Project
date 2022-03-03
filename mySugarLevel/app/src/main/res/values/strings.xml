@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">mySugarLevel</string>
+    <string name="andamento_giornaliero">Andamento Giornaliero</string>
+    <string name="eventi_glucosio_basso_alto">Eventi glucosio basso/alto</string>
+    <string name="valore_medio">Valore Medio</string>
+    <string name="calendario">Calendario</string>
+    <string name="notte">Notte</string>
+    <string name="pomeriggio">Pomeriggio</string>
+    <string name="valore">Valore</string>
+    <string name="mattina">Mattina</string>
+    <string name="diario">Diario</string>
+    <string name="impostazioni">Impostazioni</string>
+    <string name="soglia_glucosio_alto">Soglia glucosio alto</string>
+    <string name="soglia_glucosio_basso">Soglia glucosio basso</string>
+    <string name="_50">50</string>
+    <string name="_200">200</string>
+    <string name="notifiche">Notifiche</string>
+    <string name="eventi_di_glucosio_alto">Eventi di glucosio alto</string>
+    <string name="eventi_di_glucosio_basso">Eventi di glucosio basso</string>
+    <string name="insulina">Insulina</string>
+    <string name="cibo">Cibo</string>
+    <string name="orario">Orario</string>
+
+    <!-- Url -->
+    <string name="urlValore">http://192.168.1.81:8080/PJDM_mySugarLevel_v3/ValoreServlet</string>
+    <string name="urlLoadValoreByDate">http://192.168.1.81:8080/PJDM_mySugarLevel_v3/LoadValoreByDateServlet</string>
+    <string name="urlLoadValoreByUnaData">http://192.168.1.81:8080/PJDM_mySugarLevel_v3/LoadValoreByUnaDataServlet</string>
+
+
+    <!-- Settings Titles -->
+    <string name="messages_header">Impostazioni</string>
+
+    <!-- Settings Preferences -->
+    <string name="valore_alto">Soglia glucosio alto</string>
+    <string name="valore_basso">Soglia glucosio basso</string>
+    <string name="title_activity_settings">Impostazioni</string>
+
+</resources>

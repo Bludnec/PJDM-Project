@@ -1,0 +1,14 @@
+127.0.0.1 - - [05/Nov/2021:10:40:02 +0100] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [05/Nov/2021:10:40:03 +0100] "GET /PJDM_mySugarLevel_v3/WEB-INF/classes/it/uniroma2/pjdm/muSugarLevel/dao/LoadValoreByDateDAO.java HTTP/1.1" 404 682
+10.220.40.226 - - [05/Nov/2021:10:40:52 +0100] "GET /PJDM_mySugarLevel_v3/LoadValoreByUnaDataServlet?id_utente=1&data=2021/11/05 HTTP/1.1" 200 12
+10.220.40.226 - - [05/Nov/2021:10:41:04 +0100] "GET /PJDM_mySugarLevel_v3/LoadValoreByUnaDataServlet?id_utente=1&data=2021/11/05 HTTP/1.1" 200 12
+10.220.40.226 - - [05/Nov/2021:10:41:04 +0100] "POST /PJDM_mySugarLevel_v3/ValoreServlet?id_utente=1&data=2021/11/05&orario=09:30&valore=120&insulina=0&cibo=0 HTTP/1.1" 200 31
+10.220.40.226 - - [05/Nov/2021:10:41:12 +0100] "POST /PJDM_mySugarLevel_v3/ValoreServlet?id_utente=1&data=2021/11/05&orario=10:00&valore=200&insulina=0&cibo=0 HTTP/1.1" 200 31
+10.220.40.226 - - [05/Nov/2021:10:41:12 +0100] "GET /PJDM_mySugarLevel_v3/LoadValoreByUnaDataServlet?id_utente=1&data=2021/11/05 HTTP/1.1" 200 174
+10.220.40.226 - - [05/Nov/2021:10:41:19 +0100] "GET /PJDM_mySugarLevel_v3/LoadValoreByUnaDataServlet?id_utente=1&data=2021/11/05 HTTP/1.1" 200 174
+10.220.40.226 - - [05/Nov/2021:10:41:21 +0100] "GET /PJDM_mySugarLevel_v3/LoadValoreByUnaDataServlet?id_utente=1&data=2021/11/05 HTTP/1.1" 200 174
+10.220.40.226 - - [05/Nov/2021:10:41:27 +0100] "GET /PJDM_mySugarLevel_v3/LoadValoreByUnaDataServlet?id_utente=1&data=2021/10/29 HTTP/1.1" 200 12
+10.220.40.226 - - [05/Nov/2021:10:41:50 +0100] "GET /PJDM_mySugarLevel_v3/LoadValoreByUnaDataServlet?id_utente=1&data=2021/10/22 HTTP/1.1" 200 822
+10.220.40.226 - - [05/Nov/2021:10:41:57 +0100] "GET /PJDM_mySugarLevel_v3/LoadValoreByUnaDataServlet?id_utente=1&data=2021/11/05 HTTP/1.1" 200 174
+10.220.40.226 - - [05/Nov/2021:10:42:00 +0100] "GET /PJDM_mySugarLevel_v3/LoadValoreByDateServlet?id_utente=1&data1=2021/10/29&data2=2021/11/05 HTTP/1.1" 200 174
+10.220.40.226 - - [05/Nov/2021:10:42:01 +0100] "GET /PJDM_mySugarLevel_v3/LoadValoreByUnaDataServlet?id_utente=1&data=2021/11/05 HTTP/1.1" 200 174

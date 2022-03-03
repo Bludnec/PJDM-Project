@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;lib&apos;&#x0D;&#x0A;- Original project: &apos;PJDM2020-2021_servlet-DB&apos;&#x0D;&#x0A;- Destination element: &apos;lib&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     java-json.jar&#x0D;&#x0A;     mysql-connector-java-8.0.16.jar" description="Copy files" element1="WebContent/WEB-INF/lib/java-json.jar" element2="WebContent/WEB-INF/lib/mysql-connector-java-8.0.16.jar" files="2" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1631095282296" target="/PJDM_mySugarLevel/WebContent/WEB-INF/lib" units="0" version="1.0"/>
+</session>

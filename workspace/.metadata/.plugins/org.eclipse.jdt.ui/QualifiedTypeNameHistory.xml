@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="it.uniroma2.pjdm.mySugarLevel.dao.ValoriDAO"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="it.uniroma2.pjdm.mySugarLevel.entity.Valore"/>
+    <fullyQualifiedTypeName name="org.json.JSONArray"/>
+    <fullyQualifiedTypeName name="java.sql.SQLIntegrityConstraintViolationException"/>
+    <fullyQualifiedTypeName name="it.uniroma2.pjdm.mySugarLevel.dao.DeleteValoreDAO"/>
+    <fullyQualifiedTypeName name="it.uniroma2.pjdm.mySugarLevel.dao.DeleteValoreDAOJDBCImpl"/>
+    <fullyQualifiedTypeName name="it.uniroma2.pjdm.mySugarLevel.dao.InsertValoreDAO"/>
+    <fullyQualifiedTypeName name="it.uniroma2.pjdm.mySugarLevel.dao.LoadValoreDAOJDBCImpl"/>
+    <fullyQualifiedTypeName name="it.uniroma2.pjdm.mySugarLevel.dao.LoadValoreByDateDAOJDBCImpl"/>
+    <fullyQualifiedTypeName name="it.uniroma2.pjdm.mySugarLevel.dao.LoadValoreByUnaDataDAO"/>
+    <fullyQualifiedTypeName name="it.uniroma2.pjdm.mySugarLevel.dao.LoadValoreByUnaDataDAOJDBCImpl"/>
+    <fullyQualifiedTypeName name="it.uniroma2.pjdm.mySugarLevel.dao.LoadValoreDAO"/>
+    <fullyQualifiedTypeName name="it.uniroma2.pjdm.mySugarLevel.dao.ModifyValoreDAO"/>
+    <fullyQualifiedTypeName name="it.uniroma2.pjdm.muSugarLevel.dao.ValoreDAOJDBCImpl"/>
+    <fullyQualifiedTypeName name="it.uniroma2.pjdm.muSugarLevel.dao.ValoreDAO"/>
+</qualifiedTypeNameHistroy>

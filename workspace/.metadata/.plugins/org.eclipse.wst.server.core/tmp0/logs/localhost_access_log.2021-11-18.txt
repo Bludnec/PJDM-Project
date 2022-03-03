@@ -1,0 +1,16 @@
+127.0.0.1 - - [18/Nov/2021:11:53:57 +0100] "GET / HTTP/1.1" 404 751
+172.20.10.3 - - [18/Nov/2021:11:55:20 +0100] "GET /PJDM_mySugarLevel_v3/LoadValoreByUnaDataServlet?id_utente=1&data=2021/11/18 HTTP/1.1" 200 12
+172.20.10.3 - - [18/Nov/2021:11:55:27 +0100] "GET /PJDM_mySugarLevel_v3/LoadValoreByUnaDataServlet?id_utente=1&data=2021/11/18 HTTP/1.1" 200 12
+172.20.10.3 - - [18/Nov/2021:11:55:27 +0100] "POST /PJDM_mySugarLevel_v3/ValoreServlet?id_utente=1&data=2021/11/18&orario=09:30&valore=200&insulina=0&cibo=1 HTTP/1.1" 200 31
+172.20.10.3 - - [18/Nov/2021:11:55:35 +0100] "POST /PJDM_mySugarLevel_v3/ValoreServlet?id_utente=1&data=2021/11/18&orario=10:00&valore=100&insulina=0&cibo=1 HTTP/1.1" 200 31
+172.20.10.3 - - [18/Nov/2021:11:55:35 +0100] "GET /PJDM_mySugarLevel_v3/LoadValoreByUnaDataServlet?id_utente=1&data=2021/11/18 HTTP/1.1" 200 93
+172.20.10.3 - - [18/Nov/2021:11:55:41 +0100] "GET /PJDM_mySugarLevel_v3/LoadValoreByUnaDataServlet?id_utente=1&data=2021/11/18 HTTP/1.1" 200 174
+172.20.10.3 - - [18/Nov/2021:11:56:07 +0100] "GET /PJDM_mySugarLevel_v3/LoadValoreByUnaDataServlet?id_utente=1&data=2021/11/18 HTTP/1.1" 200 174
+172.20.10.3 - - [18/Nov/2021:11:56:11 +0100] "GET /PJDM_mySugarLevel_v3/LoadValoreByUnaDataServlet?id_utente=1&data=2021/10/22 HTTP/1.1" 200 822
+172.20.10.3 - - [18/Nov/2021:11:56:17 +0100] "GET /PJDM_mySugarLevel_v3/LoadValoreByUnaDataServlet?id_utente=1&data=2021/11/18 HTTP/1.1" 200 174
+172.20.10.3 - - [18/Nov/2021:11:56:22 +0100] "GET /PJDM_mySugarLevel_v3/LoadValoreByUnaDataServlet?id_utente=1&data=2021/10/22 HTTP/1.1" 200 822
+172.20.10.3 - - [18/Nov/2021:11:56:32 +0100] "GET /PJDM_mySugarLevel_v3/LoadValoreByUnaDataServlet?id_utente=1&data=2021/11/18 HTTP/1.1" 200 174
+172.20.10.3 - - [18/Nov/2021:11:56:34 +0100] "GET /PJDM_mySugarLevel_v3/LoadValoreByUnaDataServlet?id_utente=1&data=2021/11/18 HTTP/1.1" 200 174
+172.20.10.3 - - [18/Nov/2021:11:56:37 +0100] "GET /PJDM_mySugarLevel_v3/LoadValoreByUnaDataServlet?id_utente=1&data=2021/11/18 HTTP/1.1" 200 174
+172.20.10.3 - - [18/Nov/2021:11:56:40 +0100] "GET /PJDM_mySugarLevel_v3/LoadValoreByUnaDataServlet?id_utente=1&data=2021-11-18 HTTP/1.1" 200 174
+172.20.10.3 - - [18/Nov/2021:11:56:44 +0100] "GET /PJDM_mySugarLevel_v3/LoadValoreByUnaDataServlet?id_utente=1&data=2021/11/18 HTTP/1.1" 200 174

@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+D:\Google Drive\File studio\Archivio\Anno 3\Programmazione Java per Dispositivi Mobili\Progetto esame finale\workspace\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+376858609.index
+352074408.index
+80234668.index
+1210658807.index

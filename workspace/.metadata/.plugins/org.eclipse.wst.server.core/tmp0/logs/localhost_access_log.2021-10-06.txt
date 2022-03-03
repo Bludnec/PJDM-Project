@@ -1,0 +1,33 @@
+127.0.0.1 - - [06/Oct/2021:14:28:05 +0200] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [06/Oct/2021:14:48:10 +0200] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [06/Oct/2021:14:50:29 +0200] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [06/Oct/2021:14:50:39 +0200] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [06/Oct/2021:14:50:40 +0200] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [06/Oct/2021:14:50:47 +0200] "GET /PJDM_mySugarLevel/ListaSingolaServlet?id_utente=1&data=2021/9/10 HTTP/1.1" 200 12
+0:0:0:0:0:0:0:1 - - [06/Oct/2021:14:51:47 +0200] "PUT /PJDM_mySugarLevel/ValoriServlet?oldId_utente=2&oldData=2021-12-22&oldOrario=13:40&orario=13:40&valore=110&insulina=0&cibo=0 HTTP/1.1" 200 28
+0:0:0:0:0:0:0:1 - - [06/Oct/2021:14:51:50 +0200] "POST /PJDM_mySugarLevel/ValoriServlet?id_utente=2&data=2021-12-22&orario=14:30&valore=120&insulina=1&cibo=1&data%20 HTTP/1.1" 200 31
+0:0:0:0:0:0:0:1 - - [06/Oct/2021:15:08:40 +0200] "POST /PJDM_mySugarLevel/ValoriServlet?id_utente=2&data=2021-12-22&orario=14:30&valore=120&insulina=1&cibo=1&data%20 HTTP/1.1" 500 35
+0:0:0:0:0:0:0:1 - - [06/Oct/2021:15:09:41 +0200] "GET /PJDM_mySugarLevel/ValoriServlet?id_utente=1&data=2021/10/06&orario=22:20&valore=222&insulina=0&cibo=0 HTTP/1.1" 404 20
+0:0:0:0:0:0:0:1 - - [06/Oct/2021:15:09:56 +0200] "POST /PJDM_mySugarLevel/ValoriServlet?id_utente=1&data=2021/10/06&orario=22:20&valore=222&insulina=0&cibo=0 HTTP/1.1" 200 31
+0:0:0:0:0:0:0:1 - - [06/Oct/2021:15:11:01 +0200] "GET /PJDM_mySugarLevel/ListaSingolaServlet?id_utente=1&data=2021/10/06 HTTP/1.1" 200 93
+0:0:0:0:0:0:0:1 - - [06/Oct/2021:15:11:09 +0200] "POST /PJDM_mySugarLevel/ValoriServlet?id_utente=1&data=2021/10/06&orario=22:21&valore=222&insulina=0&cibo=0 HTTP/1.1" 200 31
+0:0:0:0:0:0:0:1 - - [06/Oct/2021:15:11:11 +0200] "GET /PJDM_mySugarLevel/ListaSingolaServlet?id_utente=1&data=2021/10/06 HTTP/1.1" 200 174
+0:0:0:0:0:0:0:1 - - [06/Oct/2021:15:12:07 +0200] "-" 400 2228
+0:0:0:0:0:0:0:1 - - [06/Oct/2021:15:12:07 +0200] "-" 400 2182
+0:0:0:0:0:0:0:1 - - [06/Oct/2021:15:12:13 +0200] "-" 400 2218
+0:0:0:0:0:0:0:1 - - [06/Oct/2021:15:12:13 +0200] "-" 400 2218
+0:0:0:0:0:0:0:1 - - [06/Oct/2021:15:12:27 +0200] "GET /PJDM_mySugarLevel/ListaSingolaServlet?id_utente=1&data=2021/10/06 HTTP/1.1" 200 174
+127.0.0.1 - - [06/Oct/2021:15:25:33 +0200] "GET /PJDM_mySugarLevel/ListaSingolaServlet?id_utente=1&data=2021/10/06 HTTP/1.1" 200 174
+127.0.0.1 - - [06/Oct/2021:15:25:33 +0200] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [06/Oct/2021:15:25:40 +0200] "GET /PJDM_mySugarLevel/ListaSingolaServlet?id_utente=1&data=2021/10/06 HTTP/1.1" 200 174
+0:0:0:0:0:0:0:1 - - [06/Oct/2021:15:25:42 +0200] "GET /PJDM_mySugarLevel/ListaSingolaServlet?id_utente=1&data=2021/10/06 HTTP/1.1" 200 174
+0:0:0:0:0:0:0:1 - - [06/Oct/2021:15:29:58 +0200] "GET /PJDM_mySugarLevel/ListaSingolaServlet?id_utente=1&data=2021/10/06 HTTP/1.1" 200 174
+192.168.1.81 - - [06/Oct/2021:15:31:11 +0200] "GET /PJDM_mySugarLevel/ListaSingolaServlet?id_utente=1&data=2021/10/06 HTTP/1.1" 200 174
+192.168.1.81 - - [06/Oct/2021:15:31:11 +0200] "GET /favicon.ico HTTP/1.1" 404 762
+192.168.1.81 - - [06/Oct/2021:15:31:28 +0200] "GET /PJDM_mySugarLevel/ListaSingolaServlet?id_utente=1&data=2021/10/06 HTTP/1.1" 200 174
+192.168.1.81 - - [06/Oct/2021:15:31:38 +0200] "POST /PJDM_mySugarLevel/ValoriServlet?id_utente=1&data=2021/10/06&orario=12:30&valore=123&insulina=0&cibo=0 HTTP/1.1" 200 31
+192.168.1.81 - - [06/Oct/2021:15:31:40 +0200] "GET /PJDM_mySugarLevel/ListaSingolaServlet?id_utente=1&data=2021/10/06 HTTP/1.1" 200 255
+192.168.1.81 - - [06/Oct/2021:15:32:02 +0200] "GET /PJDM_mySugarLevel/ListaSingolaServlet?id_utente=1&data=2021/10/06 HTTP/1.1" 200 255
+192.168.1.81 - - [06/Oct/2021:15:32:38 +0200] "GET /PJDM_mySugarLevel/ListaSingolaServlet?id_utente=1&data=2021/10/06 HTTP/1.1" 200 255
+192.168.1.81 - - [06/Oct/2021:15:32:51 +0200] "GET /PJDM_mySugarLevel/ListaSingolaServlet?id_utente=1&data=2021-10-06 HTTP/1.1" 200 255
+192.168.1.81 - - [06/Oct/2021:15:32:55 +0200] "GET /PJDM_mySugarLevel/ListaSingolaServlet?id_utente=1&data=2021/10/06 HTTP/1.1" 200 255
