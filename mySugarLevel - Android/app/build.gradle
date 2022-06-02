@@ -28,6 +28,7 @@ android {
     buildFeatures {
         viewBinding true
     }
+    namespace 'pjdm.pjdm2021.mysugarlevel'
 }
 
 dependencies {
